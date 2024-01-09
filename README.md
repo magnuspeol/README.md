@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **maola006@osloskolen.no**
 
-- ⚡ Fun fact **I only use five fingers when I code :()**
+- ⚡ Fun fact **I only use six fingers when I code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
