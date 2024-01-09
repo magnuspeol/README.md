@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# and Azure**
 
-- 📫 How to reach me **maola006@osloskolen.no**
+- 📫 How to reach me: **maola006@osloskolen.no**
 
 - ⚡ Fun fact: **I only use six fingers when I code.**
 
